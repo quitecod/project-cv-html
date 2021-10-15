@@ -1,0 +1,33 @@
+
+
+    body{
+      background-color:#EADEB8;
+    }
+    hr{
+      background-color: white;
+      border-style: none;
+      height: 2px;
+      width: 20%;
+      boeder-style:none;
+      border-top-style:dotted;
+      border-color: grey;
+      border-width: 5px;
+    }
+    img{
+      height: 200px;
+    }
+  h1{
+    color: #A09F57;
+    text-shadow: 1px 1px 1px black ;
+  }
+  p{
+    font-family: cursive;
+  }
+  h3{
+    font-family: cursive;
+    color: #A09F57;
+    text-shadow: 1px 1px 1px black ;
+  }
+  h1{
+    font-family: cursive;
+  }
